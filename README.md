@@ -53,7 +53,7 @@ docker compose up -d
 
 ## 交流沟通
 - 本项目相关的讨论请提[issues](https://github.com/MagicalMadoka/openai-signup-tool/issues)。先点star哦。
-- 其他技术交流: [Telegram](https://t.me/+-mQhGgbruexmNjA1)
+- 其他技术交流: [Telegram](https://t.me/+shEEyNIEe55lN2Rl)
 
 ## 帮助我训练模型
 我正在维护一些打码模型，并且放出来训练好的参数供大家免费使用,项目地址是[funcaptcha-challenger](https://github.com/MagicalMadoka/funcaptcha-challenger)
